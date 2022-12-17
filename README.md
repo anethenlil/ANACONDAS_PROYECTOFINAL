@@ -9,7 +9,7 @@ Solución al proyecto final de Manejo de Datos donde se usan bases de datos
 - Guzmán López Aneth Enlil
 - Peto Covarrubias Henry Daniel
 
-###Pasos a seguir para correr el programa
+### Pasos a seguir para correr el programa
 
 - Ya que está en otra máquina se deberá descargar el chromedriver y modificar eso en la parte del código
 - Correrlo desde arriba y darle tiempo al programa para que no se trabe o marque errores
